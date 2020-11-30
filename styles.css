@@ -160,7 +160,7 @@ section .title::after{
 /* home section styling */
 .home{
   display: flex;
-  background: url("images/kosebanner-black.png") no-repeat center;
+  background: url("images/jubatechweekcover3.png") no-repeat center;
   background-position-y: 15%;
   height: 100vh;
   color: #fff;
@@ -309,18 +309,18 @@ top: 0;
 background: green;
 }
 .skills-content .right .js::before{
-width: 90%;
+width: 100%;
 }
-.skills-content .right .css::before{
-width: 60%;
+.skills-content .right .cybersecurity::before{
+width: 70%;
 }
-.skills-content .right .js::before{
-width: 80%;
+.skills-content .right .databases::before{
+width: 100%;
 }
 .skills-content .right .php::before{
-width: 5%;
+width: 85%;
 }
-.skills-content .right .mysql::before{
+.skills-content .right .android::before{
 width: 70%;
 }
 
