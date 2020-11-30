@@ -69,4 +69,7 @@ $(document).ready(function(){
             }
         }
     });
+
+    // dynamic year update
+    const date = document.getElementById('year').innerHTML = new Date().getFullYear();
 });
